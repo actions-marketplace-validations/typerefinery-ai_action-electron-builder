@@ -1,4 +1,4 @@
-name: Electron Builder
+name: Action Electron Builder
 author: Typerefinery.ai
 description: GitHub Action for building and releasing Electron apps
 
