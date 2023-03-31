@@ -1,5 +1,5 @@
 name: Electron Builder
-author: Samuel Meuli
+author: Typerefinery.ai
 description: GitHub Action for building and releasing Electron apps
 
 inputs:
